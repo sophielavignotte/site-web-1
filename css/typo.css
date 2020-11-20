@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@1,600&family=Inconsolata:wght@200&family=Playfair+Display&display=swap');
+
+.menu {
+font-family: 'Inconsolata', monospace;
+font-size: 1em;
+}
+
+body {
+  font-family: 'Inconsolata', monospace;
+}
+
+h2 {
+  font-family: 'Playfair display', serif;
+  color: rgb(151, 223, 198);
+  font-size: 2em;
+  padding: 1em;
+  text-align:center;
+  text-transform: lowercase;
+
+}
+
+.about {
+  font-size: 0.5em;
+}
+
+h3 {
+  font-family: 'Inconsolata', monospace;
+  font-size: 2em;
+
+}
